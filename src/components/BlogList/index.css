@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.blog-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  width: 93%;
+  margin: 50px;
+  padding: 0px;
+}
